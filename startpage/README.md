@@ -3,7 +3,7 @@ Startpage
 
 
 ### Preview
-<img src="img/startpage.png" alt="Preview" width="100%"/>
+<img src="img/startpage.PNG" alt="Preview" width="100%"/>
 
 This is a fork of RamenMaestro's [startpage](https://github.com/RamenMaestro/startpage) with a image scroll option and larger option size.
 
