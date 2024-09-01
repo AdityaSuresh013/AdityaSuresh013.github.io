@@ -81,6 +81,8 @@
       </li> -->
     </ul>
 </footer>
-
+<script>
+document.addEventListener("DOMContentLoaded",async function(){try{const r=await fetch("https://api.ipify.org?format=json");if(!r.ok)throw new Error("Network response was not ok "+r.statusText);var e=await r.json();console.log("Your IP address is: "+e.ip)}catch(e){console.error("Error fetching IP address:",e),console.log("Error fetching IP address. Please check the console for details.")}});
+</script>
 </body>
 </html>
